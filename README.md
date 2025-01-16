@@ -23,4 +23,5 @@ Este projeto implementa um sistema de atendimento em um caixa com fila prioritá
 
 ```bash
 python main.py
+
 ![foto_sistema](https://raw.githubusercontent.com/moisesvinicius/caixa_com_fila_prioritaria/main/IMG_20250116_153432.jpg)
